@@ -18,7 +18,7 @@ Link to the case study: [8 Week SQL Challenge - Case Study 2](https://8weeksqlch
 
 What's Inside 📦
 
-- `SCHEMA pizza_runner.sql`: All the SQL queries used to solve the questions.
+- `SCHEMA pizza_runner.sql`: SQL queries used to create the Schema.
 - `report.pdf`: A detailed report of the case study, including insights and conclusions.
 
 
