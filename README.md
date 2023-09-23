@@ -1,6 +1,7 @@
 # SQL_Case_Study2
  From Order to Delivery: A SQL Analysis of Pizza Runner’s Business Performance" is part of the 8weekssqlchallenge by Danny Ma. This second case study explores Pizza Runner's operations, focusing on profitability, time efficiency, menu popularity, and delivery performance.
 
+![2](https://github.com/fatihhsahin1/SQL_Case_Study2/assets/76142095/31dd1a8c-c62b-4729-9aaa-42aeb4a4b8af)
 
 Pizza Runner SQL Case Study 🍕🚚
 
